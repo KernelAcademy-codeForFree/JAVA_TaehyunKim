@@ -46,7 +46,7 @@ public class Player {
     }
 
     public void receivedByDealer(Card[] cards) {
-        this.cards = cards;
+        this.cards = cards; 
     }
 
     public Card[] getCards() {
